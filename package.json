@@ -1,0 +1,29 @@
+{
+  "name": "autopilot",
+  "version": "0.0.0",
+  "description": "IoC framework for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://TylerGarlick@github.com/redrockethq/autopilot.git"
+  },
+  "keywords": [
+    "ioc",
+    "dependency",
+    "injection",
+    "dependencies"
+  ],
+  "author": "Tyler Garlick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redrockethq/autopilot/issues"
+  },
+  "homepage": "https://github.com/redrockethq/autopilot",
+  "dependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.17.1"
+  }
+}

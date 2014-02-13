@@ -1,4 +1,6 @@
-autopilot
+AutoPilot IoC
 =========
 
-IoC container for node.js
+```js
+npm install autopilot
+```
